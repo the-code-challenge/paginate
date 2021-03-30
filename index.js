@@ -1,8 +1,6 @@
-const challengeFunction = function(param){
+const paginate = function (items, page, itemsPerPage) {
     /* YOUR CODE HERE */
-    let result
 
-    return result
 }
 
-module.exports = challengeFunction
+module.exports = paginate
